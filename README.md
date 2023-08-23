@@ -14,4 +14,6 @@ Para esto se utilizó los operadores de map, mergeAll, takeUnitl de la libreria 
 
 Para la escuhca de los eventos se utilizó fromEvent también de la libreria de rxjs.
 
+## Deploy
 
+El despliegue del proyecto lo puedes ver en <a href="https://desanlesr95.github.io/PaintBoard/">https://desanlesr95.github.io/PaintBoard/</a>
